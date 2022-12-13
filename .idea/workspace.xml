@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65baeb7a-7b29-4f05-a210-3bba9e0f97e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="65baeb7a-7b29-4f05-a210-3bba9e0f97e3" name="Changes" comment="STG function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +50,28 @@
       <option name="presentableId" value="Default" />
       <updated>1670861113603</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tests function">
+      <created>1670934527749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670934527749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tests function">
+      <created>1670934599910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670934599910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="STG function">
+      <created>1670935386799</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670935386799</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tests function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tests function" />
+    <MESSAGE value="STG function" />
+    <option name="LAST_COMMIT_MESSAGE" value="STG function" />
   </component>
 </project>
